@@ -8,7 +8,7 @@ public class Homework3 {
         emptyArray();
         newArray();
         square();
-        oneArray(3, 9);
+        oneArray(4, 9);
     }
 
     public static void integerArray() {
