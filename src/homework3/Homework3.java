@@ -38,7 +38,7 @@ public class Homework3 {
             if (mass[i] < 6) {
                 mass[i] = (mass[i] * 2);
             }
-            System.out.println("mass [ " + i + "]=" + mass[i]);
+            System.out.println("mass[" + i + "]=" + mass[i]);
         }
     }
 
