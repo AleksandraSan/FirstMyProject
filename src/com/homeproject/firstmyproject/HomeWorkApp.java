@@ -22,7 +22,7 @@ public class HomeWorkApp {
         if (c >= 0) {
             System.out.println("Сумма положительная");
         } else {
-            System.out.println("Сумма отрицательная");
+            System.out.println("Сумма отрицательная ");
         }
     }
 
